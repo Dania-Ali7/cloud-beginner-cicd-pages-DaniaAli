@@ -8,8 +8,7 @@ This project is a practical application for the Cloud Computing course. It demon
 - **Instructor:** Dr. Faten F Abushmmala
 
 ## Live Website Link
-[Click here to view my live site](https://dania-ali.github.io/cloud-beginner-cicd-pages-DaniaAli/)
-*(ملاحظة: تأكدي من تعديل الرابط لاحقاً ليطابق اسم المستخدم الخاص بكِ على GitHub)*
+[Click here to view my live site](https://dania-ali7.github.io/cloud-beginner-cicd-pages-DaniaAli/)
 
 ## How to Run Locally
 1. Clone this repository to your local machine.
